@@ -1,4 +1,4 @@
-import { Nunito } from 'next/font/google'
+import { Poppins } from 'next/font/google'
 
 import Navbar from '@/app/components/navbar/Navbar';
 import LoginModal from '@/app/components/modals/LoginModal';
@@ -13,12 +13,13 @@ import ClientOnly from './components/ClientOnly';
 import getCurrentUser from './actions/getCurrentUser';
 
 export const metadata = {
-  title: 'Airbnb',
-  description: 'Airbnb Clone',
+  title: 'Earthly Escapes',
+  description: 'Earthly Escapes Website',
 }
 
-const font = Nunito({ 
-  subsets: ['latin'], 
+const font = Poppins({ 
+  weight: '300',
+  subsets: ['latin'],
 });
 
 export default async function RootLayout({
