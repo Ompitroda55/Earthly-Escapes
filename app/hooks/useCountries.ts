@@ -1,4 +1,4 @@
-import countries from 'world-countries';
+// import countries from 'world-countries';
 
 
 // const formattedCountries = countries.map((country) => ({
@@ -12,21 +12,22 @@ import countries from 'world-countries';
 const formattedCountries = [
   {
     value: 'IN',
-    label: 'India',
+    label: 'NCR',
     flag: '🇮🇳',
+    state: "Gujarat",
     latlng: [20.5937, 78.9629],
-    region: 'Asia',
+    region: '',
   },
   {
-    "value": "IN",
-    "label": "Delhi",
-    "state": "Delhi",
-    "flag": "🇮🇳",
-    "latlng": [28.61,77.23],
-    "region": "India"
+    value: 'UK',
+    label: 'NCR',
+    state: "Delhi",
+    // flag: "🇮🇳",
+    latlng: [28.61,77.23],
+    region: 'India'
 },
 {
-    "value": "IN",
+    'value': "IN",
     "label": "Mumbai",
     "state": "Mahārāshtra",
     "flag": "🇮🇳",
