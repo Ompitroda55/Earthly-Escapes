@@ -122,77 +122,77 @@ import Container from '../Container';
 
 export const categories = [
   {
-    label: 'Forest Lodges',
+    label: 'ForestLodge',
     icon: GiForestCamp,
     description: 'Stay in serene forest lodges.'
   },
   {
-    label: 'Tea Plantation Retreat',
+    label: 'TeaRetreat',
     icon: GiForest,
     description: 'Experience tea plantation life.'
   },
   {
-    label: 'Cultural Immersion with Tribes',
+    label: 'TribeQuest',
     icon: GiAxeInLog,
     description: 'Immerse in tribal culture.'
   },
   {
-    label: 'Sustainable Farm Stays',
+    label: 'GreenStays',
     icon: GiFarmer,
     description: 'Live on eco-friendly farms.'
   },
   {
-    label: 'Yoga and Wellness Retreats',
+    label: 'ZenHaven',
     icon: GiGalaxy,
     description: 'Rejuvenate in wellness retreats.'
   },
   {
-    label: 'Mangrove Plantation',
+    label: 'MangroveLife',
     icon: GiDekuTree,
     description: 'Explore mangrove plantations.'
   },
   {
-    label: 'Himalayan Homestays',
+    label: 'HimalayaHome',
     icon: GiHills,
     description: 'Experience the Himalayas.'
   },
   {
-    label: 'Ayurvedic Wellness Retreats',
+    label: 'AyurBliss',
     icon: GiCondorEmblem,
     description: 'Heal with Ayurvedic practices.'
   },
   {
-    label: 'Agro-Tourism',
+    label: 'FarmTrek',
     icon: GiFarmer,
     description: 'Learn about sustainable farming.'
   },
   {
-    label: 'Temple Trails',
+    label: 'TempleTrek',
     icon: GiTempleGate,
     description: 'Explore ancient temples.'
   },
   {
-    label: 'Desert Camps',
+    label: 'DesertCamp',
     icon: GiDesert,
     description: 'Camp in the desert.'
   },
   {
-    label: 'Punjab Farm Stays',
+    label: 'PunjabFarm',
     icon: GiFarmTractor,
     description: 'Experience farm life in Punjab.'
   },
   {
-    label: 'Kutchi Huts',
+    label: 'KutchHuts',
     icon: GiHutsVillage,
     description: 'Stay in traditional Kutchi huts.'
   },
   {
-    label: 'Spiti Valley Homestays',
+    label: 'SpitiStay',
     icon: GiForestCamp,
     description: 'Experience Spiti Valley.'
   },
   {
-    label: 'Rural Farm Experiences',
+    label: 'FarmLife',
     icon: GiVanillaFlower,
     description: 'Engage in rural farm activities.'
   }
